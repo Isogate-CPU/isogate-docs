@@ -20,4 +20,4 @@ Creators control irreversible wallet transactions. The bootstrap verifier and pr
 
 Verified source does not guarantee economic safety, market value, liquidity depth, or freedom from every vulnerability. The contracts must not be described as independently audited unless an official audit report is published.
 
-Report vulnerabilities privately using the process in the repository root [SECURITY.md](../SECURITY.md).
+Report vulnerabilities privately using the process in the repository root [SECURITY.md](https://github.com/Isogate-CPU/isogate-docs/blob/main/SECURITY.md).
