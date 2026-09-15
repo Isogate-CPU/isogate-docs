@@ -1,0 +1,21 @@
+# Build output
+site/
+public/
+dist/
+build/
+.cache/
+
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.secret
+credentials.json
+
+# Editors and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

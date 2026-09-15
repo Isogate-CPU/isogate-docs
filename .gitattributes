@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.md linguist-language=Markdown
+*.yml linguist-language=YAML
+*.yaml linguist-language=YAML

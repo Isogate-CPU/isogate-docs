@@ -1,0 +1,20 @@
+site_name: Isogate Documentation
+site_description: Public technical documentation for Isogate
+site_url: https://isogate.tech/?page=docs
+repo_url: https://github.com/Isogate-CPU
+edit_uri: ""
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Complete reference: Isogate-Complete-Documentation.md
+  - Architecture: architecture.md
+  - Security: security.md
+  - Contracts: contracts.md
+  - Compatibility: compatibility.md
+  - Official links: links.md
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
