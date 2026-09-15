@@ -1,4 +1,5 @@
 site_name: Isogate Documentation
+docs_dir: docs
 site_description: Public technical documentation for Isogate
 site_url: https://isogate.tech/?page=docs
 repo_url: https://github.com/Isogate-CPU
@@ -18,4 +19,3 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
-docs_dir: docs
