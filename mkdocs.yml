@@ -18,3 +18,4 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+docs_dir: docs
